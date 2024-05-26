@@ -20,6 +20,7 @@ export const ProductsProvider = ({ children }: ChildrenType): ReactElement => {
     const [products, setProducts] = useState<ProductType[]>(initState)
 
     useEffect(() => {
+        // fetch the data from json dummy server
         const fetchProducts = async (): Promise<ProductType[]> => {
             return await fetch('http://localhost:3500/products').then(res => {
                             return res.json()
