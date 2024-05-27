@@ -7,6 +7,7 @@ It defines multiple components such as header,footer, navbar, product, productli
 e-commerce website using simple react components
 
 ![cart.png](shopping-cart%2Fsrc%2Fassets%2Fcart.png)
+![products.png](shopping-cart%2Fsrc%2Fassets%2Fproducts.png)
 
 ### ✨ Features
 The application utilise react hooks  use -> state, context, reducer to perform react operations utilising 
