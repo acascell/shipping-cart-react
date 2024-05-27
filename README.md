@@ -9,7 +9,6 @@ e-commerce website using simple react components
 ![products.png](shopping-cart%2Fsrc%2Fassets%2Fproducts.png)
 ![cart.png](shopping-cart%2Fsrc%2Fassets%2Fcart.png)
 ![confirmation.png](shopping-cart%2Fsrc%2Fassets%2Fconfirmation.png)
-![mobile.png](shopping-cart%2Fsrc%2Fassets%2Fmobile.png)
 
 ### ✨ Features
 The application utilise react hooks  use -> state, context, reducer to perform react operations utilising 
