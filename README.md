@@ -11,9 +11,9 @@ e-commerce website using simple react components
 ![confirmation.png](shopping-cart%2Fsrc%2Fassets%2Fconfirmation.png)
 
 ### ✨ Features
-The application utilise react hooks  use -> state, context, reducer to perform react operations utilising 
-latest react function based hooks. Defined a context layer wrapping up both "cart" and "product" functionalities defned as "provider"
-The main entrypoint glues up all the components, context and provider to spin up the acppication
+The application utilise react hooks such as use -> state, context, reducer to perform react operations utilising 
+latest react function based on hooks. Defined a context layer wrapping up both "cart" and "product" entities defined as "provider".
+The main entrypoint glues up all the components, context and provider to spin up the application
 
 ```
 ReactDOM.createRoot(document.getElementById('root')!).render(
