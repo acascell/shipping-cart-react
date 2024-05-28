@@ -2,7 +2,7 @@
 Create a shopping cart to make purchases using Vite, typescript, react
 
 ### 🚀 Overview
-The shopping cart is essentially a react based application built using Vite with the support typescript.
+The shopping cart is essentially a react based application built using Vite with the support of typescript.
 It defines multiple components such as header,footer, navbar, product, productlist, cart emulating a more complex
 e-commerce website using simple react components
 
